@@ -7,7 +7,7 @@
 
 </div>
 
-<br>
+
 
 <div align="center">
 <br>
@@ -35,7 +35,6 @@
 <div align="center" >
 <br>
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/rafaelvsmarques?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=purple) 
 
 <br>
 </div>
@@ -43,6 +42,7 @@
 
 ### Main skills:
 <div align="left"> 
+ 
 <img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
@@ -108,12 +108,10 @@
 <div align="center">
 <h3> If you support me, click here, give me a coffee</h3>
 <a href="https://ko-fi.com/rafaelvsmarques33#paypalModal" target="_blank">
-<img align="center" height="80" width="80" src="ps://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
+<img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/a2d82bf2-ce12-4ea6-bb4f-cd85c55dca68">
 </a>
 </div>
 
 <br>
-<br> 
-
 
 <img width=100% src="https://github.com/user-attachments/assets/dae228b6-0b95-4569-b6ac-94f0d9bd049e"/>
