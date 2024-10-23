@@ -2,9 +2,11 @@
 <br>
 <br> 
 <div align="center">
+<br>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=15&size=35&pause=1000&color=8C2AF7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Hello+%2C+my+name+is+Rafael;i+am+%2C27+years+old)](https://git.io/typing-svg)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A02F7&width=435&lines=Hello+%2C+my+name+is+Rafael+;a+im+26+yeres+yold+)](https://git.io/typing-svg) 
-
+<br>
 </div>
 
 
