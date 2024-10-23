@@ -3,9 +3,11 @@
 <br> 
 <div align="center">
 <br>
+<br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=15&size=35&pause=1000&color=8C2AF7&center=&vCenter=&repeat=&random=&width=500&lines=Hello+%2C+my+name+is+Rafael;i+am+%2C26+years+old;Every+bird+that+flies+has+overcome+the+fear+of+falling.;Persist+until+it+becomes+easy.;Think+big.;Protect+your+energy!;Today+a+reader.+Tomorrow+a+leader.)](https://git.io/typing-svg)
 
+<br>
 <br>
 </div>
 
