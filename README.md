@@ -1,5 +1,4 @@
-<!-- Banner (ATUALIZE O LINK COM SUA IMAGEM) -->
-<img width="100%" src="https://raw.githubusercontent.com/rafaelvsmarques/rafaelvsmarques/main/assets/banner.png"/>
+<img width="100%" src="https://github.com/user-attachments/assets/dae228b6-0b95-4569-b6ac-94f0d9bd049e"/>
 
 <div align="center">
 
@@ -7,13 +6,13 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelvsmarques&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafaelvsmarques&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 📬 Contact
+### 📬 **Contact**
 
 <p align="center">
   <a href="mailto:rafaelvsmarques33@gmail.com">
@@ -26,23 +25,50 @@
 
 ---
 
-### 🚀 Main Skills
+### 🚀 **Main Skills**
 
 <p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" />
 </p>
 
 ---
 
-### 📚 Currently Studying
+### 📚 **Currently Studying**
 
 <p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+</p>
+
+---
+
+### 👁️‍🗨️ **Visitor Counter**
+
+<p align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=rafaelvsmarques&s=60&c=3700ff&bg=00000000&no=4&ff=digi&tb=Visits+%3A+&ta=" />
+</p>
+
+---
+
+### ☕ **Support my work**
+
+<p align="center">
+  <a href="https://ko-fi.com/rafaelvsmarques33#paypalModal" target="_blank">
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/2935/2935357.png" alt="Buy me a coffee" />
+  </a>
+</p>
+
+---
+
+<img width="100%" src="https://github.com/user-attachments/assets/dae228b6-0b95-4569-b6ac-94f0d9bd049e"/>
 
