@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/dae228b6-0b95-4569-b6ac-94f0d9bd049e"/>
+<img width="100%" src="https://github.com/rafaelvsmarques/rafaelvsmarques/blob/main/assets/banner.png?raw=true"/>
 
 <div align="center">
 
@@ -52,11 +52,20 @@
 
 ---
 
-### 📈 GitHub Contributions
+### 📊 GitHub Metrics
 
-<p align="center">
-  <iframe src="https://jandee.vercel.app/rafaelvsmarques" width="100%" height="200" frameborder="0"></iframe>
-</p>
+<div align="center">
+  <a href="https://github.com/rafaelvsmarques">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvsmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvsmarques&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 👨‍💻 Coding Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelvsmarques&theme=tokyonight)](https://github.com/rafaelvsmarques)
 
 ---
 
@@ -71,13 +80,13 @@
 ### ☕ Support my work
 
 <p align="center">
-  <a href="https://ko-fi.com/rafaelvsmarques33#paypalModal" target="_blank">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/2935/2935357.png" alt="Buy me a coffee" />
+  <a href="https://ko-fi.com/rafaelvsmarques33" target="_blank">
+    <img height="60" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee" />
   </a>
 </p>
 
 ---
 
-<img width="100%" src="https://github.com/user-attachments/assets/dae228b6-0b95-4569-b6ac-94f0d9bd049e"/>
+<img width="100%" src="https://github.com/rafaelvsmarques/rafaelvsmarques/blob/main/assets/banner.png?raw=true"/>
 
 
