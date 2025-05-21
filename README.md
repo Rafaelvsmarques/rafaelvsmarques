@@ -46,7 +46,7 @@
 ### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelvsmarques&theme=tokyo-night&hide_border=true" />
+  <img src="https://github.com/rafaelvsmarques/rafaelvsmarques/raw/main/profile-3d-contrib/profile-green.svg" alt="GitHub Contribution Grid" />
 </p>
 
 ---
