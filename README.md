@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img width="100%" src="https://github.com/rafaelvsmarques/rafaelvsmarques/blob/main/assets/banner.png?raw=true"/>
+<!-- Banner (ATUALIZE O LINK COM SUA IMAGEM) -->
+<img width="100%" src="https://raw.githubusercontent.com/rafaelvsmarques/rafaelvsmarques/main/assets/banner.png"/>
 
 <div align="center">
 
@@ -44,49 +44,5 @@
 
 <p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-</p>
-
----
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <a href="https://github.com/rafaelvsmarques">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvsmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvsmarques&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-### 👨‍💻 Coding Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelvsmarques&theme=tokyonight)](https://github.com/rafaelvsmarques)
-
----
-
-### 👁️‍🗨️ Visitor Counter
-
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=rafaelvsmarques&s=60&c=3700ff&bg=00000000&no=4&ff=digi&tb=Visits+%3A+&ta=" />
-</p>
-
----
-
-### ☕ Support my work
-
-<p align="center">
-  <a href="https://ko-fi.com/rafaelvsmarques33" target="_blank">
-    <img height="60" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
-
-<img width="100%" src="https://github.com/rafaelvsmarques/rafaelvsmarques/blob/main/assets/banner.png?raw=true"/>
-
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js
 
