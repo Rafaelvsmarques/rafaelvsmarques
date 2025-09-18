@@ -47,11 +47,11 @@ Uso seu currículo como base para conteúdo, formação e projetos listados. 
 <br />
 
 ## 🚀 Projects — Destaques (curtos, prontos para linkar)
-> Adicione os links (`/repo` ou `/demo`) depois de colar este README.
+
 
 - **AI Assist (widget)** — Chat contextual + embeddings para ajuda contextual dentro de produtos. (React + Node + vector DB)  
 - **Fullstack Marketplace** — Front React, API Node, pagamentos e analytics; foco em performance e UX.  
-- **Plataforma de Doações — Creche Casinha da Vovó** — Site responsivo com integração Pix + painel de gestão (PHP/JS). <!-- baseado no seu CV --> fileciteturn1file0
+- **Plataforma de Doações — Creche Casinha da Vovó** — Site responsivo com integração Pix + painel de gestão (PHP/JS).  fileciteturn1file0
 - **Sistema CRUD (clientes)** — React + Node + Postgres; autenticação JWT + roles. fileciteturn1file1
 
 <br />
